@@ -1,0 +1,34 @@
+@media (max-width: 991px) {
+    .blue{
+        height: 80px !important;
+        
+        
+    }
+.men{
+    display: grid ;
+ grid-template-columns: 1fr ;
+    
+}
+h2{
+   display: flex;
+    justify-content: center;
+   font-size: 70px !important;
+}
+.k{
+    display: grid;
+    justify-content: space-between !important;
+margin-top: 30px;
+grid-template-columns: 1fr 1fr 1fr;
+
+}
+header a{
+    font-size: 30px;
+    margin-right: 10px !important;
+    justify-content: center;
+}
+header img{
+    height:215px ;
+    
+}
+
+}

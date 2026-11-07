@@ -1,0 +1,40 @@
+
+h1,h2,h3,h4,h5,h6,ul,li,a,p{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header .blue {
+    width: 100%;
+    height: 60px;
+    background: rgb(0, 153, 255);
+}
+
+.men {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    color: #656565;
+}
+
+header a {
+    color: #656565;
+    font-size: 20px;
+}
+header .k a{ 
+    margin-right: 15px;
+    
+}
+.o{
+    margin-top: 40px;
+    
+    
+}
+header h2{
+    font-size: 40px;
+    
+}
